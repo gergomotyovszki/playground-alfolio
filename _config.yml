@@ -172,8 +172,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  # - _pages/blog.md
-   - _pages/about_einstein.md
+  - _pages/about_einstein.md
   - _pages/books.md
   - _pages/dropdown.md
   - _pages/profiles.md
@@ -270,8 +269,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Motyovszki]
+  first_name: [Gergo]
 
   style: apa
   locale: en
