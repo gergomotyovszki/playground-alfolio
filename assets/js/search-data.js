@@ -42,7 +42,7 @@ ninja.data = [{
           description: "Click on the PDF icon on the right to download my CV.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/playground-alfolio/playground-alfolio/cv/";
+            window.location.href = "/playground-alfolio/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
