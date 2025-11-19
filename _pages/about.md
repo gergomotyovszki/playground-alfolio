@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://economy-finance.ec.europa.eu/index_en'>European Commission, DG ECFIN</a>. Brussels, Belgium
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: motyo_fb_small.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>DG Economic and Financial Affairs</p>
+    <p>European Commission</p>
+    <p><a href="mailto:gergo.motyovszki@ec.europa.eu">gergo.motyovszki@ec.europa.eu</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an economist at the European Commission's DG ECFIN, working on macroeconomic modelling. I defended my PhD at the Department of Economics of the European University Institute in Florence, Italy.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in the fields of Monetary Economics and International Macroeconomics, focusing on the interaction of monetary-fiscal policies and household heterogeneity in open economies and currency unions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to my PhD, I worked at the monetary strategy division of the central bank of Hungary, as well as at OGResearch, a macroeconomic consultancy involved in macro forecasting for developing countries. I have spent my PhD internships at the Bank of England and the European Central Bank, and I was a visiting researcher at the University College London.
+
+I hold an MA degree in Economics from the Central European University in Budapest. I spent an Erasmus semester attending Macroeconomics courses at the Universiteit van Amsterdam. I was also a member of the Rajk László College in Budapest during my university studies. 
+
+You can find my research [here](/research/), and can download my CV [here](/cv/).
