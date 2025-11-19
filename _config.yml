@@ -290,8 +290,19 @@ scholar:
   details_link: Details
 
   query: "@*"
+  group_by: type,year
+  order: descending
+  group_order: ascending,descending
+  type_order: [article, unpublished, techreport]
+  type_names:
+    article: Publications
+    unpublished: Working papers
+    techreport: Policy papers
+    
+    
   group_by: year
   group_order: descending
+  
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
