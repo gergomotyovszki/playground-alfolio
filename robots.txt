@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gergomotyovszki.github.io/playground-alfolio/sitemap.xml
+Sitemap: https://gergomotyovszki.github.io/playground-alfolio//sitemap.xml
