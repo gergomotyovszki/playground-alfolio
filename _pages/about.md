@@ -35,4 +35,4 @@ Prior to my PhD, I worked at the monetary strategy division of the central bank 
 
 I hold an MA degree in Economics from the Central European University in Budapest. I spent an Erasmus semester attending Macroeconomics courses at the Universiteit van Amsterdam. I was also a member of the Rajk László College in Budapest during my university studies. 
 
-You can find my research [here](/playground-alfolio/research/), and can download my CV [here](/playground-alfolio/assets/pdf/cv_motyo.pdf).
+You can find my research [here](/playground-alfolio/research/), and can download my CV <a href="/playground-alfolio/assets/pdf/cv_motyo.pdf" target="_blank">here</a>.
